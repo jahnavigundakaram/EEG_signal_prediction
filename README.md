@@ -1,1 +1,1 @@
-# EEG_signal_prediction-
+# EEG_signal_prediction
